@@ -1,0 +1,10 @@
+{
+  "name": "elm-review-bug-sscce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tomas Latal <latal.tomas@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx elm make src/Main.elm && npx elm-review --template jfmengels/elm-review-unused/example"
+  }
+}
