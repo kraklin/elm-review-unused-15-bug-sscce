@@ -1,6 +1,6 @@
 module Main exposing (main)
 
-{-| SSCCE for elm-review-unused 1.1.15
+{-| SSCCE for elm-review-unused 1.1.5
 
 Problem:
 When you have the same name of type and name of variant
